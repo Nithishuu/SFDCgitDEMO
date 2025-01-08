@@ -1,2 +1,7 @@
 Nithishuu_HDC4
+<<<<<<< HEAD
 here is the change
+=======
+changes in github
+added
+>>>>>>> 63edbc77c70d84352ebae088b79e468bcf9b061a
